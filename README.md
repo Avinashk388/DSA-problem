@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avinashk388/DSA-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Avinashk388/DSA-problem/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Avinashk388/DSA-problem/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avinashk388/DSA-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avinashk388/DSA-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
