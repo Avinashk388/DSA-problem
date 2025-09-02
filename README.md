@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Avinashk388/DSA-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avinashk388/DSA-problem/tree/master/0287-find-the-duplicate-number) |
+| [1054-complement-of-base-10-integer](https://github.com/Avinashk388/DSA-problem/tree/master/1054-complement-of-base-10-integer) |
 ## Two Pointers
 |  |
 | ------- |
