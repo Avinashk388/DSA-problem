@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Avinashk388/DSA-problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Avinashk388/DSA-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Avinashk388/DSA-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avinashk388/DSA-problem/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avinashk388/DSA-problem/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avinashk388/DSA-problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Avinashk388/DSA-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avinashk388/DSA-problem/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avinashk388/DSA-problem/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Avinashk388/DSA-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
