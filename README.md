@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avinashk388/DSA-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Avinashk388/DSA-problem/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Avinashk388/DSA-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/Avinashk388/DSA-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avinashk388/DSA-problem/tree/master/0287-find-the-duplicate-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Avinashk388/DSA-problem/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Avinashk388/DSA-problem/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Avinashk388/DSA-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Avinashk388/DSA-problem/tree/master/0898-transpose-matrix) |
 ## Simulation
